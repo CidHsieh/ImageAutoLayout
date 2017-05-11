@@ -1,0 +1,3 @@
+# ImageAutoLayout
+
+用NSLayoutConstraint程式碼控制UIview的畫面，以符合直向或橫向擺放時的AutoLayout
